@@ -1,8 +1,8 @@
 ## DragonWindows
 
-After years of hard work, reverse engineering, and team building we decided to release the AKCore server side sources.
-This hard work was accomplished by a team from different culture, religion, and location.
-We successfuly pass over language barrage to make something that we are proud of, and happy to release you today.
+After years of hard work, reverse engineering, and team building we decided to release the AKCore server-side sources.
+This hard work was accomplished by a team from different cultures, religions, and locations.
+We successfuly passed over language barriers to make something that we are proud of, and happy to release to you today.
 Special thanks to all the team members :heart:
   - SanGawku
   - Luizoe
@@ -11,8 +11,8 @@ Special thanks to all the team members :heart:
   - PurpleHeart
   - Arakjim
   
-Also a huge thanks to all DBOUR team to support us for all this time, even when we were away from the project.
-And to you the community, without who this project may have never exist.
+Also a huge thanks to all of the DBOUR team that supported us for all this time, even when we were away from the project.
+And to you the community, without you this project may have never existed.
 
 ## Prerequisite
 
