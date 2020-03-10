@@ -52,26 +52,36 @@ Now the solution is open, you need to get the nugget package back, right click o
 ![akcore](http://atidote63.free.fr/DBOInstall/4.PNG)
 
 Time to compile, right click on the solution one more time and 'BUILD'.
+
 You should get it done depending on your configuration pretty quick without error if u followed the installation as i told u.
 
 ## Database installation
 
 Run mariadb installation exe.
+
 Hit Next.
+
 Set a new root password, next.
+
 next.
+
 next.
+
 install.
 
 Open HeidiSQL that have been installed with mariadb.
+
 Connect to your 127.0.0.1 database using your created root user.
 
 Right click on the left panel and choose create new database:
 ![akcore](http://atidote63.free.fr/DBOInstall/5.PNG)
 
 Then file => import sql file
+
 Select:
+
 \DragonWindows\Utils\SQL\dbo.sql
+
 You'll need to add a new entry into gameserver table, and edit the realmlist table to fit it to your need (network).
 
 
@@ -79,10 +89,15 @@ You'll need to add a new entry into gameserver table, and edit the realmlist tab
 Copy the following file into your build executable path (default is \DragonWindows\x64\Debug-Release):
 
 \DragonWindows\Utils\TS
+
 \DragonWindows\Utils\WorldData
+
 \DragonWindows\DragonLib\mysql\lib\libmariadb.dll
+
 \DragonWindows\Auth\Auth.json
+
 \DragonWindows\Char\Char.json
+
 \DragonWindows\Game\Game.json
 
 Edit the configuration as you want to your specific mysql connection and such.
