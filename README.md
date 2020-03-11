@@ -1,4 +1,4 @@
-## DragonWindows
+## DBOUR-Server
 
 After years of hard work, reverse engineering, and team building we decided to release the AKCore server-side sources.
 This hard work was accomplished by a team from different cultures, religions, and locations.
@@ -39,7 +39,7 @@ Get in the repository and shift-right click on it and select open powershell pro
 
 hit enter. (if a github login window prompt then log yourself..)
 
-=> https://github.com/AK-Core/DragonWindows.git
+=> https://github.com/AK-Core/DBOUR-Server.git
 
 Wait a bit untill the solution get downloaded (may to sometime depend on your internet connection)
 
